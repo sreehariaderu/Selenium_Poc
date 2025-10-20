@@ -1,0 +1,160 @@
+2025-10-17 11:52:11.685 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 11:52:17.972 [main] ERROR com.poc.pages.Poc_ProductDetails_Page - Checking visibility of review submission message failed with exception: invalid selector: Unable to locate an element with the xpath expression //span[text()=Thank you for your review.] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//span[text()=Thank you for your review.]' is not a valid XPath expression.
+  (Session info: chrome=141.0.7390.78)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e8dcfb9230a0d1de9e5a3fccff3791cd, findElement {value=//span[text()=Thank you for your review.], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.78, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\sreehari\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53215}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53215/devtoo..., se:cdpVersion: 141.0.7390.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e8dcfb9230a0d1de9e5a3fccff3791cd
+2025-10-17 11:52:17.981 [main] WARN  com.poc.lib.TestAllureReportListener - WebDriver is null or does not support screenshots.
+2025-10-17 11:52:18.129 [main] INFO  com.poc.base.AbstractBaseTest - Screenshot captured for failed method Add_Review_On_Product_Validation
+2025-10-17 11:52:18.129 [main] INFO  com.poc.base.AbstractBaseTest - Add_Review_On_Product_Validation failed and captured the screenshot.
+2025-10-17 11:52:18.129 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 11:53:18.470 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 11:53:24.766 [main] INFO  com.poc.base.AbstractBaseTest - Add_Review_On_Product_Validation executed successfully.
+2025-10-17 11:53:24.767 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 12:39:29.543 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 12:39:35.421 [main] WARN  com.poc.lib.TestAllureReportListener - WebDriver is null or does not support screenshots.
+2025-10-17 12:39:35.629 [main] INFO  com.poc.base.AbstractBaseTest - Screenshot captured for failed method Scroll_Up_using_Arrow_And_Scroll_down_Validation
+2025-10-17 12:39:35.629 [main] INFO  com.poc.base.AbstractBaseTest - Scroll_Up_using_Arrow_And_Scroll_down_Validation failed and captured the screenshot.
+2025-10-17 12:39:35.630 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 12:40:55.183 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 12:40:58.385 [main] INFO  com.poc.base.AbstractBaseTest - Scroll_Up_using_Arrow_And_Scroll_down_Validation executed successfully.
+2025-10-17 12:40:58.385 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 12:52:47.396 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 12:52:53.792 [main] INFO  com.poc.base.AbstractBaseTest - Scroll_Up_using_Arrow_And_Scroll_down_Validation executed successfully.
+2025-10-17 12:52:53.793 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 12:57:43.213 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 12:57:46.300 [main] INFO  com.poc.base.AbstractBaseTest - Scroll_Up_using_Arrow_And_Scroll_down_Validation executed successfully.
+2025-10-17 12:57:46.300 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 13:08:19.025 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 13:08:24.689 [main] ERROR com.poc.pages.Poc_Home_page - Scrolling to top failed with exception: element not interactable
+  (Session info: chrome=141.0.7390.78)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [447bd1fb4b8398bcdf398a611faac5cf, clickElement {id=f.50175F7A605A67D88BBC2CA1F0ACBD52.d.042D0279A9683C182261A6F87B96F918.e.47}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.78, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\sreehari\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57475}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57475/devtoo..., se:cdpVersion: 141.0.7390.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (447bd1fb4b8398bcdf398a611faac5cf)] -> xpath: //a[@id='scrollUp']]
+Session ID: 447bd1fb4b8398bcdf398a611faac5cf
+2025-10-17 13:08:24.695 [main] WARN  com.poc.lib.TestAllureReportListener - WebDriver is null or does not support screenshots.
+2025-10-17 13:08:24.855 [main] INFO  com.poc.base.AbstractBaseTest - Screenshot captured for failed method Scroll_Up_Without_Using_Arrow_And_Scroll_down_Validation
+2025-10-17 13:08:24.855 [main] INFO  com.poc.base.AbstractBaseTest - Scroll_Up_Without_Using_Arrow_And_Scroll_down_Validation failed and captured the screenshot.
+2025-10-17 13:08:24.855 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 13:13:14.903 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 13:13:18.170 [main] INFO  com.poc.base.AbstractBaseTest - Scroll_Up_Without_Using_Arrow_And_Scroll_down_Validation executed successfully.
+2025-10-17 13:13:18.171 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 15:23:09.386 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 15:23:14.953 [main] INFO  com.poc.base.AbstractBaseTest - Search_Products_Validation executed successfully.
+2025-10-17 15:23:14.953 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 22:19:23.602 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 22:19:26.245 [main] ERROR com.poc.pages.Poc_Home_page - Recommended product Wnter Top not found with exception: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='recommended_items']//p[text()='Wnter Top']//parent::div/a"}
+  (Session info: chrome=141.0.7390.78)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [00f72dc71743e0cdbb873268b948346f, findElement {using=xpath, value=//div[@class='recommended_items']//p[text()='Wnter Top']//parent::div/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.78, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\sreehari\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59163}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59163/devtoo..., se:cdpVersion: 141.0.7390.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 00f72dc71743e0cdbb873268b948346f
+2025-10-17 22:19:26.253 [main] WARN  com.poc.lib.TestAllureReportListener - WebDriver is null or does not support screenshots.
+2025-10-17 22:19:26.466 [main] INFO  com.poc.base.AbstractBaseTest - Screenshot captured for failed method Add_Recommended_Products_Validation
+2025-10-17 22:19:26.466 [main] INFO  com.poc.base.AbstractBaseTest - Add_Recommended_Products_Validation failed and captured the screenshot.
+2025-10-17 22:19:26.466 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 22:19:27.378 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 22:19:31.588 [main] INFO  com.poc.base.AbstractBaseTest - Recommended product Stylish Dress added successfully to cart
+2025-10-17 22:19:31.591 [main] INFO  com.poc.base.AbstractBaseTest - Add_Recommended_Products_Validation executed successfully.
+2025-10-17 22:19:31.591 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 22:19:32.426 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 22:19:36.678 [main] INFO  com.poc.base.AbstractBaseTest - Recommended product Summer White Top added successfully to cart
+2025-10-17 22:19:36.682 [main] INFO  com.poc.base.AbstractBaseTest - Add_Recommended_Products_Validation executed successfully.
+2025-10-17 22:19:36.682 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 22:23:47.198 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 22:23:49.692 [main] ERROR com.poc.pages.Poc_Home_page - Recommended product Wnter Top not found with exception: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='recommended_items']//p[text()='Wnter Top']//parent::div/a"}
+  (Session info: chrome=141.0.7390.78)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8bec591fb93738b42219174cfaac73dc, findElement {value=//div[@class='recommended_items']//p[text()='Wnter Top']//parent::div/a, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.78, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\sreehari\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59385}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59385/devtoo..., se:cdpVersion: 141.0.7390.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8bec591fb93738b42219174cfaac73dc
+2025-10-17 22:23:50.084 [main] INFO  com.poc.base.AbstractBaseTest - Screenshot captured for failed method Add_Recommended_Products_Validation
+2025-10-17 22:23:50.084 [main] INFO  com.poc.base.AbstractBaseTest - Add_Recommended_Products_Validation failed and captured the screenshot.
+2025-10-17 22:23:50.084 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 22:23:50.917 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 22:23:55.618 [main] INFO  com.poc.base.AbstractBaseTest - Recommended product Stylish Dress added successfully to cart
+2025-10-17 22:23:55.621 [main] INFO  com.poc.base.AbstractBaseTest - Add_Recommended_Products_Validation executed successfully.
+2025-10-17 22:23:55.621 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 22:23:56.469 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 22:24:00.873 [main] INFO  com.poc.base.AbstractBaseTest - Recommended product Summer White Top added successfully to cart
+2025-10-17 22:24:00.877 [main] INFO  com.poc.base.AbstractBaseTest - Add_Recommended_Products_Validation executed successfully.
+2025-10-17 22:24:00.878 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 22:43:45.491 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 22:43:48.275 [main] ERROR com.poc.pages.Poc_Home_page - Recommended product Wnter Top not found with exception: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='recommended_items']//p[text()='Wnter Top']//parent::div/a"}
+  (Session info: chrome=141.0.7390.78)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [028018b1532f2a1ef533c3b62af9f941, findElement {using=xpath, value=//div[@class='recommended_items']//p[text()='Wnter Top']//parent::div/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.78, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\sreehari\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60178}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60178/devtoo..., se:cdpVersion: 141.0.7390.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 028018b1532f2a1ef533c3b62af9f941
+2025-10-17 22:43:48.673 [main] INFO  com.poc.base.AbstractBaseTest - Screenshot captured for failed method Add_Recommended_Products_Validation
+2025-10-17 22:43:48.674 [main] INFO  com.poc.base.AbstractBaseTest - Add_Recommended_Products_Validation failed and captured the screenshot.
+2025-10-17 22:43:48.674 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 22:43:49.485 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 22:43:55.140 [main] INFO  com.poc.base.AbstractBaseTest - Recommended product Stylish Dress added successfully to cart
+2025-10-17 22:43:55.143 [main] INFO  com.poc.base.AbstractBaseTest - Add_Recommended_Products_Validation executed successfully.
+2025-10-17 22:43:55.143 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 22:43:55.978 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 22:44:01.687 [main] INFO  com.poc.base.AbstractBaseTest - Recommended product Summer White Top added successfully to cart
+2025-10-17 22:44:01.689 [main] INFO  com.poc.base.AbstractBaseTest - Add_Recommended_Products_Validation executed successfully.
+2025-10-17 22:44:01.689 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 22:58:49.712 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 22:58:52.530 [main] ERROR com.poc.pages.Poc_Home_page - Recommended product Wnter Top not found with exception: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='recommended_items']//p[text()='Wnter Top']//parent::div/a"}
+  (Session info: chrome=141.0.7390.78)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [da859ffa5bf8eb34623fcb63e089259b, findElement {using=xpath, value=//div[@class='recommended_items']//p[text()='Wnter Top']//parent::div/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.78, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\sreehari\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60764}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60764/devtoo..., se:cdpVersion: 141.0.7390.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: da859ffa5bf8eb34623fcb63e089259b
+2025-10-17 22:58:52.740 [main] INFO  com.poc.lib.TestAllureReportListener - Attaching screenshot file to Allure: C:\Users\sreehari\eclipse-workspace\poc\.\screenshots\Add_Recommended_Products_ValidationFri-Oct-17-22-58-52-IST-2025.png (230343 bytes)
+2025-10-17 22:58:52.920 [main] INFO  com.poc.base.AbstractBaseTest - Screenshot captured for failed method Add_Recommended_Products_Validation
+2025-10-17 22:58:52.920 [main] INFO  com.poc.base.AbstractBaseTest - Add_Recommended_Products_Validation failed and captured the screenshot.
+2025-10-17 22:58:52.920 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 22:58:53.765 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 22:59:00.166 [main] INFO  com.poc.base.AbstractBaseTest - Recommended product Stylish Dress added successfully to cart
+2025-10-17 22:59:00.170 [main] INFO  com.poc.base.AbstractBaseTest - Add_Recommended_Products_Validation executed successfully.
+2025-10-17 22:59:00.170 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 22:59:00.985 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 22:59:08.101 [main] INFO  com.poc.base.AbstractBaseTest - Recommended product Summer White Top added successfully to cart
+2025-10-17 22:59:08.105 [main] INFO  com.poc.base.AbstractBaseTest - Add_Recommended_Products_Validation executed successfully.
+2025-10-17 22:59:08.105 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 23:04:35.977 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 23:04:38.958 [main] ERROR com.poc.pages.Poc_Home_page - Recommended product Wnter Top not found with exception: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='recommended_items']//p[text()='Wnter Top']//parent::div/a"}
+  (Session info: chrome=141.0.7390.78)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0606841f547347b830e86a764be5c813, findElement {value=//div[@class='recommended_items']//p[text()='Wnter Top']//parent::div/a, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.78, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\sreehari\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61066}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61066/devtoo..., se:cdpVersion: 141.0.7390.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0606841f547347b830e86a764be5c813
+2025-10-17 23:04:39.174 [main] INFO  com.poc.lib.TestAllureReportListener - Attaching screenshot file to Allure: C:\Users\sreehari\eclipse-workspace\poc\.\screenshots\Add_Recommended_Products_ValidationFri-Oct-17-23-04-38-IST-2025.png (229198 bytes)
+2025-10-17 23:04:39.344 [main] INFO  com.poc.base.AbstractBaseTest - Screenshot captured for failed method Add_Recommended_Products_Validation
+2025-10-17 23:04:39.344 [main] INFO  com.poc.base.AbstractBaseTest - Add_Recommended_Products_Validation failed and captured the screenshot.
+2025-10-17 23:04:39.344 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 23:04:40.163 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 23:04:44.853 [main] INFO  com.poc.base.AbstractBaseTest - Recommended product Stylish Dress added successfully to cart
+2025-10-17 23:04:44.857 [main] INFO  com.poc.base.AbstractBaseTest - Add_Recommended_Products_Validation executed successfully.
+2025-10-17 23:04:44.857 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------
+2025-10-17 23:04:45.701 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-17 23:04:50.890 [main] INFO  com.poc.base.AbstractBaseTest - Recommended product Summer White Top added successfully to cart
+2025-10-17 23:04:50.892 [main] INFO  com.poc.base.AbstractBaseTest - Add_Recommended_Products_Validation executed successfully.
+2025-10-17 23:04:50.893 [main] INFO  com.poc.base.AbstractBaseTest - -------------------------------------------------------

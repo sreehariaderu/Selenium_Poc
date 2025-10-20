@@ -1,0 +1,47 @@
+2025-10-15 21:34:32.024 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-15 21:34:35.172 [main] ERROR com.poc.pages.Poc_Home_page - Category link Dress click failed with exception: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='panel-collapse in']//a[text()='Dress ']"}
+  (Session info: chrome=141.0.7390.67)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fb74bcc8c7dc3382aca7d1943103fa27, findElement {using=xpath, value=//div[@class='panel-collapse in']//a[text()='Dress ']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.67, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\sreehari\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56443}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56443/devtoo..., se:cdpVersion: 141.0.7390.67, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fb74bcc8c7dc3382aca7d1943103fa27
+2025-10-15 21:35:42.974 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-15 21:36:48.535 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-15 21:37:56.778 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-15 21:43:59.678 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-15 21:45:20.016 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-15 21:45:27.670 [main] ERROR com.poc.pages.Poc_Home_page - Category link Jeans click failed with exception: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='panel-collapse in']//a[text()='Jeans ']"}
+  (Session info: chrome=141.0.7390.67)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [592897a5f0a73d1a1876f7f23d833fc1, findElement {value=//div[@class='panel-collapse in']//a[text()='Jeans '], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.67, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\sreehari\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56947}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56947/devtoo..., se:cdpVersion: 141.0.7390.67, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 592897a5f0a73d1a1876f7f23d833fc1
+2025-10-15 21:46:00.054 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-15 21:48:46.319 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-15 21:48:50.151 [main] ERROR com.poc.pages.Poc_Home_page - Category link Dress click failed with exception: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='panel-collapse in']//a[text()='Dress ']"}
+  (Session info: chrome=141.0.7390.67)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e454a3ab1fbefa121092e5ceedcf6c53, findElement {value=//div[@class='panel-collapse in']//a[text()='Dress '], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.67, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\sreehari\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57114}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57114/devtoo..., se:cdpVersion: 141.0.7390.67, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e454a3ab1fbefa121092e5ceedcf6c53
+2025-10-15 21:54:37.257 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-15 21:54:40.875 [main] ERROR com.poc.pages.Poc_Home_page - Category link Dress click failed with exception: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='panel-collapse in']//a[text()='Dress ']"}
+  (Session info: chrome=141.0.7390.67)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5176bd2eff4991c273e1b4b9e5ea9768, findElement {using=xpath, value=//div[@class='panel-collapse in']//a[text()='Dress ']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.67, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\sreehari\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57325}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57325/devtoo..., se:cdpVersion: 141.0.7390.67, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5176bd2eff4991c273e1b4b9e5ea9768
+2025-10-15 21:56:57.765 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
+2025-10-15 22:21:50.411 [main] INFO  com.poc.base.AbstractBaseTest - Chrome browser is launched
