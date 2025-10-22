@@ -7,6 +7,7 @@
    <classes>
       <class name="com.poc.tests.Test1"/>
       <class name="com.poc.tests.Test2"/>
+      <class name="com.poc.tests.Test3"/>
    </classes>
  </test>
 </suite>
